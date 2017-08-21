@@ -1,0 +1,5 @@
+## Proivde cab aggregator config
+gridSize: 10 # Square area for cab service to work in
+m: 3 # Manhattan distance for cab to pick 1st rider
+n: 4 # Manhattan distance for cab to pick 2nd rider
+numOfCabs: 5 # Number of cabs for service

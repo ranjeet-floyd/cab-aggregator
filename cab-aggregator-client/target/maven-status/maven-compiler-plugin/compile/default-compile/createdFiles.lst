@@ -1,0 +1,9 @@
+com/example/cab/aggregator/client/bean/PositionBean.class
+com/example/cab/aggregator/client/Test.class
+com/example/cab/aggregator/client/bean/PickUpResourceBean.class
+com/example/cab/aggregator/client/CabServiceImp.class
+com/example/cab/aggregator/client/bean/DropBeanResource.class
+com/example/cab/aggregator/client/bean/CabType.class
+com/example/cab/aggregator/client/CabService.class
+com/example/cab/aggregator/client/bean/RiderBean.class
+com/example/cab/aggregator/client/bean/ActiveCabBean.class
